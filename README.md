@@ -1,3 +1,8 @@
+
+https://github.com/jeryrepo/HR-Analysis-MySQL-PowerBI/assets/142509067/e69bf4e5-33ba-4a0b-a731-6b4eb24800b5
+
+
+
 # HR-Analysis-MySQL-PowerBI
 The dataset was cleaned and queried using MySQL and visualized using PowerBI.
 
