@@ -25,8 +25,6 @@ In the process of cleaning the data, the following steps were undertaken to ensu
 5) Gender Format Standardization:
    The gender column was modified to follow a uniform format. Both "male" and "female" formats were transformed into "M" and "F," respectively.
 
-These cleaning steps were crucial to enhance data quality and consistency, making the dataset more suitable for analysis and reporting.
-
 
 *********************************************************************************************
 
